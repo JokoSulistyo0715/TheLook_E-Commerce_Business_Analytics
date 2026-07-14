@@ -52,6 +52,40 @@ Adapun beberapa pertanyaan stakeholder dari beberapa analysis yang sudah dibuat,
 | Power BI | Dashboard & Data Visualization |
 
 ## 📂 Struktur Repository
+
+```
+TheLook-Ecommerce-Business-Analytics
+│
+├── 📁 Dashboard
+│   ├── Sales Dashboard.png
+│   ├── Customer Dashboard.png
+│   ├── Product Dashboard.png
+│   ├── Shipping Dashboard.png
+│   └── TheLook Dashboard.pbix
+│
+├── 📁 SQL
+│   ├── 01_Create Database.sql
+│   ├── 02_Create Table.sql
+│   ├── 03_Primary Key.sql
+│   ├── 04_Foreign Key.sql
+│   ├── 05_Import Data.sql
+│   ├── 06_Data Cleaning.sql
+│   ├── 07_Data Validation.sql
+│   ├── 08_Sales Analysis.sql
+│   ├── 09_Customer Analysis.sql
+│   ├── 10_Product Analysis.sql
+│   ├── 11_Shipping Analysis.sql
+│   └── 12_Master Table.sql
+│
+├── 📁 Database Schema
+│   └── ERD.png
+│
+├── 📁 Dataset
+│   └── Dataset Information.md
+│
+└── README.md
+```
+
 ## 🔄 Alur Pengolahan Data
 ## 🗄️ Database Structure
 ## 🔗 Entity Relationship Diagram (ERD)
