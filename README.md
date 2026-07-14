@@ -15,15 +15,18 @@ Analisis ini dilakukan untuk memberikan gambaran menyeluruh mengenai performa bi
 - Bagaimana performa penjualan berdasarkan revenue, order, profit, dan Average Order Value (AOV)?
 - Bagaimana tren revenue dari waktu ke waktu?
 - Brand, kategori, dan produk apa yang memberikan kontribusi revenue terbesar?
+
 👥 Customer Analysis
 - Bagaimana karakteristik pelanggan berdasarkan gender, usia, dan lokasi?
 - Berapa rata-rata pengeluaran pelanggan serta jumlah repeat customer?
 - Traffic source mana yang paling efektif dalam mendatangkan pelanggan?
 - Siapa pelanggan dengan kontribusi revenue tertinggi?
+
 📦 Product Analysis
 - Produk, brand, dan kategori apa yang memiliki performa terbaik?
 - Bagaimana kontribusi setiap department terhadap revenue?
 - Produk mana yang memiliki tingkat return tertinggi sehingga memerlukan evaluasi lebih lanjut?
+
 🚚 Shipping Analysis
 - Bagaimana performa proses pengiriman berdasarkan rata-rata shipping days?
 - Distribution center mana yang memiliki performa pengiriman terbaik?
