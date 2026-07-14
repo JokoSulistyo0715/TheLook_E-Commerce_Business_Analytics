@@ -137,6 +137,18 @@ Melakukan analisis menggunakan SQL untuk menjawab kebutuhan bisnis pada empat ar
 Mengembangkan dashboard interaktif menggunakan Power BI untuk menyajikan KPI, tren, dan insight bisnis yang mendukung proses monitoring serta pengambilan keputusan berbasis data.
 
 ## 🗄️ Database Structure
+Database TheLook E-Commerce terdiri dari tujuh tabel utama yang saling terhubung untuk mendukung proses analisis bisnis pada area Sales, Customer, Product, dan Shipping.
+| **Table**                | **Description**                                                                                                           |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| **Users**                | Menyimpan informasi pelanggan, termasuk data demografi, lokasi, traffic source, dan tanggal registrasi akun.              |
+| **Orders**               | Menyimpan informasi transaksi pesanan, status order, tanggal transaksi, serta jumlah item dalam setiap pesanan.           |
+| **Order Items**          | Menyimpan detail setiap produk yang dibeli pada suatu order, termasuk harga jual, status, dan informasi pengiriman.       |
+| **Products**             | Menyimpan informasi master produk, seperti kategori, brand, department, harga, SKU, dan distribution center.              |
+| **Inventory Items**      | Menyimpan data inventori setiap produk beserta informasi biaya, tanggal dibuat, tanggal terjual, dan distribution center. |
+| **Events**               | Menyimpan aktivitas pengguna di website, seperti page view, klik, browser, traffic source, serta informasi sesi pengguna. |
+| **Distribution Centers** | Menyimpan informasi pusat distribusi beserta lokasi geografisnya.                                                         |
+
+
 ## 🔗 Entity Relationship Diagram (ERD)
 ## 📈 Dashboard Overview
 ## 📊 Key Insights
