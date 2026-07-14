@@ -35,7 +35,8 @@ Analisis ini dilakukan untuk memberikan gambaran menyeluruh mengenai performa bi
 
 Melalui analisis tersebut, dashboard ini diharapkan dapat membantu stakeholder memonitor KPI utama, mengidentifikasi peluang peningkatan performa bisnis, serta mendukung proses pengambilan keputusan yang lebih efektif dan berbasis data.
 
-## ❓ Business Questions (ini yang menurutku akan membuat README-mu lebih kuat)
+## ❓ Business Questions
+
 ## 🛠️ Tools & Technologies
 ## 📂 Struktur Repository
 ## 🔄 Alur Pengolahan Data
