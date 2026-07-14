@@ -87,6 +87,55 @@ TheLook-Ecommerce-Business-Analytics
 ```
 
 ## 🔄 Alur Pengolahan Data
+1. Database Design
+Membangun database TheLook E-Commerce di MySQL serta merancang struktur tabel berdasarkan dataset yang terdiri dari Users, Orders, Order Items, Products, Inventory Items, Events, dan Distribution Centers.
+
+2. Data Import
+Mengimpor seluruh dataset CSV ke dalam database menggunakan perintah LOAD DATA LOCAL INFILE sehingga setiap dataset tersimpan pada tabel yang sesuai.
+
+3. Data Type Transformation
+Melakukan penyesuaian tipe data agar sesuai untuk proses analisis, termasuk:
+- Konversi kolom tanggal dan waktu menjadi format DATETIME menggunakan STR_TO_DATE()
+- Menghapus informasi zona waktu (UTC) tanpa mengubah nilai waktu asli
+- Menyesuaikan tipe data beberapa kolom agar sesuai dengan kebutuhan relasi database
+
+4. Data Cleaning
+Melakukan proses pembersihan data untuk meningkatkan kualitas data, seperti:
+- Mengubah string kosong ('') menjadi nilai NULL
+- Menyesuaikan tipe data setelah proses cleaning
+- Memastikan data siap digunakan pada proses analisis berikutnya
+
+5. Data Validation
+Melakukan validasi kualitas data untuk memastikan data yang digunakan telah konsisten, meliputi:
+- Pemeriksaan nilai NULL
+- Pemeriksaan string kosong
+- Validasi tipe data
+- Validasi struktur tabel sebelum proses analisis
+
+6. Data Modeling
+Membangun Entity Relationship Diagram (ERD) dengan menentukan Primary Key dan Foreign Key sehingga hubungan antar tabel dapat terintegrasi serta menjaga integritas data.
+
+7. Exploratory Data Analysis (EDA)
+Melakukan eksplorasi awal terhadap dataset menggunakan SQL untuk memahami karakteristik data, meliputi:
+- Dataset Overview
+- Distribution Overview
+- Time Analysis
+- Customer Overview
+- Product Overview
+- Pricing Overview
+- Order Overview
+- Event Overview
+
+8. SQL Data Analysis
+Melakukan analisis menggunakan SQL untuk menjawab kebutuhan bisnis pada empat area utama:
+- 📈 Sales Analysis
+- 👥 Customer Analysis
+- 📦 Product Analysis
+- 🚚 Shipping Analysis
+
+9. Data Visualization
+Mengembangkan dashboard interaktif menggunakan Power BI untuk menyajikan KPI, tren, dan insight bisnis yang mendukung proses monitoring serta pengambilan keputusan berbasis data.
+
 ## 🗄️ Database Structure
 ## 🔗 Entity Relationship Diagram (ERD)
 ## 📈 Dashboard Overview
