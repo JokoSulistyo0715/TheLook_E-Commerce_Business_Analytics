@@ -7,3 +7,15 @@ Project ini bertujuan membangun solusi Business Analytics end-to-end menggunakan
 Dashboard yang dihasilkan dirancang untuk membantu stakeholder memonitor Key Performance Indicators (KPI), memahami tren bisnis, mengevaluasi perilaku pelanggan, mengidentifikasi performa produk, serta menilai efisiensi proses pengiriman sehingga dapat mendukung pengambilan keputusan berbasis data.
 
 Catatan: Dataset yang digunakan merupakan dataset publik TheLook E-Commerce untuk tujuan pembelajaran dan pengembangan portfolio. Repository ini berfokus pada proses perancangan database, analisis SQL, pengembangan dashboard Power BI, serta penyusunan insight dan rekomendasi bisnis.
+
+## 🎯 Tujuan Analisis
+## ❓ Business Questions (ini yang menurutku akan membuat README-mu lebih kuat)
+## 🛠️ Tools & Technologies
+## 📂 Struktur Repository
+## 🔄 Alur Pengolahan Data
+## 🗄️ Database Structure
+## 🔗 Entity Relationship Diagram (ERD)
+## 📈 Dashboard Overview
+## 📊 Key Insights
+## 💡 Business Recommendations
+## 👤 Author
