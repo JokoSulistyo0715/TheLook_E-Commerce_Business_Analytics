@@ -136,6 +136,7 @@ Melakukan analisis menggunakan SQL untuk menjawab kebutuhan bisnis pada empat ar
 9. Data Visualization
 Mengembangkan dashboard interaktif menggunakan Power BI untuk menyajikan KPI, tren, dan insight bisnis yang mendukung proses monitoring serta pengambilan keputusan berbasis data.
 
+
 ## 🗄️ Database Structure
 Database TheLook E-Commerce terdiri dari tujuh tabel utama yang saling terhubung untuk mendukung proses analisis bisnis pada area Sales, Customer, Product, dan Shipping.
 | **Table**                | **Description**                                                                                                           |
@@ -149,21 +150,23 @@ Database TheLook E-Commerce terdiri dari tujuh tabel utama yang saling terhubung
 | **Distribution Centers** | Menyimpan informasi pusat distribusi beserta lokasi geografisnya.                                                         |
 
 
+
 ## 🔗 Entity Relationship Diagram (ERD)
 Entity Relationship Diagram (ERD) menggambarkan hubungan antar tabel dalam database TheLook E-Commerce. Relasi dibangun menggunakan Primary Key dan Foreign Key untuk menjaga integritas data serta mendukung proses analisis pada dashboard Sales, Customer, Product, dan Shipping.
 
-<p align="center"> <img src="Database Schema/ERD.png" width="900"> </p>
-Relationship Summary
-Parent Table	Child Table	Relationship
-Distribution Center	Product	One-to-Many
-Distribution Center	Inventory Items	One-to-Many
-Product	Inventory Items	One-to-Many
-User	Orders	One-to-Many
-User	Events	One-to-Many
-Orders	Order Items	One-to-Many
-Product	Order Items	One-to-Many
-Inventory Items	Order Items	One-to-One*
-User	Order Items	One-to-Many
+### Relationship Summary
+| Parent Table        | Child Table     | Relationship |
+| ------------------- | --------------- | ------------ |
+| Distribution Center | Product         | One-to-Many  |
+| Distribution Center | Inventory Items | One-to-Many  |
+| Product             | Inventory Items | One-to-Many  |
+| User                | Orders          | One-to-Many  |
+| User                | Events          | One-to-Many  |
+| Orders              | Order Items     | One-to-Many  |
+| Product             | Order Items     | One-to-Many  |
+| Inventory Items     | Order Items     | One-to-One*  |
+| User                | Order Items     | One-to-Many  |
+
 
 Note: Pada dataset TheLook, setiap order item merepresentasikan satu inventory item yang terjual, sehingga relasi antara Inventory Items dan Order Items bersifat satu-ke-satu berdasarkan data yang tersedia.
 
