@@ -170,6 +170,8 @@ Entity Relationship Diagram (ERD) menggambarkan hubungan antar tabel dalam datab
 
 > **Note:** Pada dataset TheLook, setiap order item merepresentasikan satu inventory item yang terjual, sehingga relasi antara Inventory Items dan Order Items bersifat satu-ke-satu berdasarkan data yang tersedia.
 
+
+
 ## 📈 Dashboard Overview
 ## 📊 Key Insights
 ## 💡 Business Recommendations
