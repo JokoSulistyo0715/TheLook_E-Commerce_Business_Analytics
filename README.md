@@ -176,30 +176,29 @@ Entity Relationship Diagram (ERD) menggambarkan hubungan antar tabel dalam datab
 Project ini terdiri dari empat dashboard interaktif yang dirancang untuk memberikan gambaran menyeluruh mengenai performa bisnis TheLook E-Commerce. Setiap dashboard berfokus pada area bisnis yang berbeda sehingga stakeholder dapat memantau KPI utama, mengevaluasi performa, serta mendukung pengambilan keputusan berbasis data.
 
 ### Sales Analysis TheLook
-<p align="center"> <img src="Dashboard/Sales Dashboard.png" width="900"> </p>
+<p align="center"> <img src=Dashboard/Sales Analysis TheLook.png width="900"> </p>
 
 Key Performance Indicators (KPI)
-
-Total Revenue
-Total Orders
-Total Profit
-Average Order Value (AOV)
+- Total Revenue
+- Total Orders
+- Total Profit
+- Average Order Value (AOV)
 
 Visualizations
-
-Revenue Trend
-Revenue by Category
-Revenue by Brand
-Top 10 Products by Revenue
-Revenue by Department
+- Revenue Trend
+- Revenue by Category
+- Revenue by Brand
+- Top 10 Products by Revenue
+- Revenue by Department
 
 Filters
+- Year
+- Month
+- Category
+- Brand
+- Department
 
-Year
-Month
-Category
-Brand
-Department
+
 ## 📊 Key Insights
 ## 💡 Business Recommendations
 ## 👤 Author
