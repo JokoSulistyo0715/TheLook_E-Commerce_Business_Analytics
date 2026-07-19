@@ -234,19 +234,21 @@ Filters
 
 ### 🚚 Shipping Analysis Dashboard
 Key Performance Indicators (KPI)
-Average Shipping Days
-Return Rate
-Returned Orders
+- Average Shipping Days
+- Return Rate
+- Returned Orders
+
 Visualizations
-Shipping Days Trend
-Shipping Time by Distribution Center
-Return Rate by Category
-Return Rate by Brand
-Order Status Distribution
+- Shipping Days Trend
+- Shipping Time by Distribution Center
+- Return Rate by Category
+- Return Rate by Brand
+- Order Status Distribution
+
 Filters
-Year
-Order Status
-Distribution Center
+- Year
+- Order Status
+- Distribution Center
 
 ## 📊 Business Insights
 ## 💡 Business Recommendations
