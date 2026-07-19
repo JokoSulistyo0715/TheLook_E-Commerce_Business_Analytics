@@ -167,7 +167,7 @@ Entity Relationship Diagram (ERD) menggambarkan hubungan antar tabel dalam datab
 | Inventory Items     | Order Items     | One-to-One*  |
 | User                | Order Items     | One-to-Many  |
 
-### Visuak Entity Relationship Diagram (ERD) TheLook E-Commerce
+### Visual Entity Relationship Diagram (ERD) TheLook E-Commerce
 <p align="center"> <img src="Database Schema/Database Schema TheLook Database.png" width="900"> </p>
 
 > **Note:** Pada dataset TheLook, setiap order item merepresentasikan satu inventory item yang terjual, sehingga relasi antara Inventory Items dan Order Items bersifat satu-ke-satu berdasarkan data yang tersedia.
@@ -261,8 +261,12 @@ Filters
 ### 📈 Sales Analysis TheLook
 Dashboard Sales Analysis dirancang untuk mengevaluasi performa penjualan TheLook E-Commerce berdasarkan berbagai indikator utama, seperti Total Revenue, Total Orders, Average Order Value (AOV), dan Total Profit. Selain itu, dashboard ini membantu mengidentifikasi tren penjualan dari waktu ke waktu serta menganalisis kontribusi brand, kategori, dan produk terhadap revenue perusahaan. Insight yang dihasilkan dapat digunakan sebagai dasar dalam menyusun strategi penjualan, pengelolaan produk, serta pengambilan keputusan bisnis
 
-
-Dashboard Sales Analysis terdapat 4 KPI 
+| Key Performance Indicator (KPI) | Value        |
+|---------------------------------|--------------| 
+| Total Revenue                   | $579.868     |
+| Total Orders                    | 6862 Unit    |
+| Average Order Value (AOV)       | 84.50        |
+| Total Profit                    | $ 300.295.94 |
 
 ### 👥 Customer Analysis Dashboard
 Dashboard Customer Analysis digunakan untuk memahami karakteristik pelanggan berdasarkan gender, kelompok usia, lokasi geografis, dan traffic source. Selain itu, dashboard ini menampilkan informasi mengenai rata-rata pengeluaran pelanggan (Average Customer Spending) serta jumlah Repeat Customer untuk membantu mengevaluasi perilaku pelanggan dan efektivitas strategi pemasaran. Analisis ini mendukung perusahaan dalam meningkatkan retensi pelanggan serta mengoptimalkan aktivitas akuisisi pelanggan baru.
