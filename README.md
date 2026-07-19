@@ -197,6 +197,7 @@ Filters
 - Brand
 
 ### 👥 Customer Analysis Dashboard
+<p align="center"> <img src= width="900"> </p>
 Key Performance Indicators (KPI)
 - Total Customer
 - Average Customer Spending
@@ -215,6 +216,7 @@ Filters
 - Country
 
 ### 📦 Product Analysis Dashboard
+<p align="center"> <img src= width="900"> </p>
 Key Performance Indicators (KPI)
 - Total Product
 - Total Brand
@@ -233,6 +235,7 @@ Filters
 - Category
 
 ### 🚚 Shipping Analysis Dashboard
+<p align="center"> <img src= width="900"> </p>
 Key Performance Indicators (KPI)
 - Average Shipping Days
 - Return Rate
