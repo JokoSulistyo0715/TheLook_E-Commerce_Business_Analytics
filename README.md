@@ -278,8 +278,20 @@ Selanjutnya, pada Visualisasi Top 10 Revenue by Brand terdapat Brand Calvin Klei
 <img width="1325" height="742" alt="image" src="https://github.com/user-attachments/assets/83b5c324-49c9-48f7-a3d9-c5f753375510" />
 
 
+<img width="1503" height="748" alt="image" src="https://github.com/user-attachments/assets/cbc16ba8-e90d-49c5-97f8-5eea59db9632" />
+
+<img width="1556" height="737" alt="image" src="https://github.com/user-attachments/assets/a4992acc-4c79-4fa2-b0da-5a79b3136b5d" />
+
+
+
 ### 👥 Customer Analysis Dashboard
 Dashboard Customer Analysis digunakan untuk memahami karakteristik pelanggan berdasarkan gender, kelompok usia, lokasi geografis, dan traffic source. Selain itu, dashboard ini menampilkan informasi mengenai rata-rata pengeluaran pelanggan (Average Customer Spending) serta jumlah Repeat Customer untuk membantu mengevaluasi perilaku pelanggan dan efektivitas strategi pemasaran. Analisis ini mendukung perusahaan dalam meningkatkan retensi pelanggan serta mengoptimalkan aktivitas akuisisi pelanggan baru.
+
+<img width="1542" height="742" alt="image" src="https://github.com/user-attachments/assets/637d1955-3e5f-4ed4-bf6b-05f7a09db3cb" />
+
+<img width="1528" height="753" alt="image" src="https://github.com/user-attachments/assets/7e4c1531-f0ab-4f1a-a0ba-63ad3bd5e43a" />
+
+
 
 ### 📦 Product Analysis Dashboard
 Dashboard Product Analysis bertujuan untuk mengevaluasi performa produk berdasarkan produk, brand, kategori, dan departemen yang memberikan kontribusi terbesar terhadap revenue perusahaan. Selain itu, dashboard ini juga menganalisis Product Return Rate sebagai indikator kualitas produk dan kepuasan pelanggan. Insight yang diperoleh dapat dimanfaatkan untuk mendukung pengelolaan katalog produk, strategi penjualan, serta optimalisasi persediaan.
