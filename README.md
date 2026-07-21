@@ -322,6 +322,8 @@ Dashboard Shipping Analysis digunakan untuk mengevaluasi performa proses pengiri
 
 <img width="1366" height="740" alt="image" src="https://github.com/user-attachments/assets/18416bd0-44b3-4f07-80c6-fb7af8a80050" />
 
+<img width="1456" height="737" alt="image" src="https://github.com/user-attachments/assets/37f86803-9ce1-46ed-a520-0ef0352005f1" />
+
 
 ## 💡 Business Recommendations
 ## 👤 Author
