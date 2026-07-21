@@ -277,8 +277,11 @@ Selanjutnya, pada Visualisasi Top 10 Revenue by Brand terdapat Brand Calvin Klei
 
 <img width="1325" height="742" alt="image" src="https://github.com/user-attachments/assets/83b5c324-49c9-48f7-a3d9-c5f753375510" />
 
+Pada Visualisasi Top 10 Revenue by Product, Product The North Face Apex Bionic Soft Shell Jacket - Men's merupakan Revenue tertinggi hingga $18.963,00 lalu diurutan kedua terdapat product Jordan Durasheen Short Mens dengan Revenue $13.545,00. Product Adidas Women's adiFit Slim Pant merupakan product urutan ke-10 dengan Revenue $7.644,00
 
 <img width="1503" height="748" alt="image" src="https://github.com/user-attachments/assets/cbc16ba8-e90d-49c5-97f8-5eea59db9632" />
+
+Berikutnya, Visualisasi Top 10 Revenue by Category, pada Category Outerwear & Coa merupakan Revenue tertinggi yaitu $1.300.914,26, lalu dilanjutkan urutan ke-2 terdapat category jeans dengan $1.247.804,99, dan urutan ke-10 terdapat product Dresses dengan Revenue $461.990,43.
 
 <img width="1556" height="737" alt="image" src="https://github.com/user-attachments/assets/a4992acc-4c79-4fa2-b0da-5a79b3136b5d" />
 
