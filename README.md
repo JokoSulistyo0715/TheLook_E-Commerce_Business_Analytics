@@ -291,13 +291,37 @@ Dashboard Customer Analysis digunakan untuk memahami karakteristik pelanggan ber
 
 <img width="1528" height="753" alt="image" src="https://github.com/user-attachments/assets/7e4c1531-f0ab-4f1a-a0ba-63ad3bd5e43a" />
 
+<img width="1362" height="725" alt="image" src="https://github.com/user-attachments/assets/f581e83b-f2c6-4ec7-96d3-9be723e2b88f" />
 
+<img width="1370" height="750" alt="image" src="https://github.com/user-attachments/assets/cfa8da68-187c-4f9f-a1cf-af4cc029bb8d" />
+
+<img width="1337" height="742" alt="image" src="https://github.com/user-attachments/assets/b071f344-c222-4f6b-8716-14de1da7c6d2" />
 
 ### 📦 Product Analysis Dashboard
 Dashboard Product Analysis bertujuan untuk mengevaluasi performa produk berdasarkan produk, brand, kategori, dan departemen yang memberikan kontribusi terbesar terhadap revenue perusahaan. Selain itu, dashboard ini juga menganalisis Product Return Rate sebagai indikator kualitas produk dan kepuasan pelanggan. Insight yang diperoleh dapat dimanfaatkan untuk mendukung pengelolaan katalog produk, strategi penjualan, serta optimalisasi persediaan.
 
+<img width="1312" height="741" alt="image" src="https://github.com/user-attachments/assets/29b5d706-5d2b-4ebe-b5d1-c916fa6653c0" />
+
+<img width="1302" height="743" alt="image" src="https://github.com/user-attachments/assets/11c1e54d-cfd7-46de-bc4b-6016ecb7ddd6" />
+
+<img width="1371" height="746" alt="image" src="https://github.com/user-attachments/assets/68d1e721-6fec-405a-820c-06f942ec77ef" />
+
+<img width="1202" height="757" alt="image" src="https://github.com/user-attachments/assets/73f9e948-be84-4e96-93af-697b653edb83" />
+
+<img width="1372" height="747" alt="image" src="https://github.com/user-attachments/assets/3345933e-80d4-4d64-9ffd-2a1a7fb8729b" />
+
+
 ### 🚚 Shipping Analysis Dashboard
 Dashboard Shipping Analysis digunakan untuk mengevaluasi performa proses pengiriman berdasarkan Average Shipping Days, Return Rate, dan Returned Orders. Selain itu, dashboard ini membantu menganalisis kinerja setiap Distribution Center, tingkat pengembalian produk berdasarkan brand dan kategori, serta distribusi status pesanan selama periode analisis. Hasil analisis dapat menjadi dasar dalam meningkatkan efisiensi operasional, mengurangi tingkat pengembalian produk, dan meningkatkan kualitas layanan kepada pelanggan.
+
+<img width="1390" height="768" alt="Shipping Days Trend" src="https://github.com/user-attachments/assets/a31d3d2e-269c-4da4-b3ce-d54d5c2a2b96" />
+
+<img width="1368" height="742" alt="image" src="https://github.com/user-attachments/assets/3aa813c8-6f93-4fba-bff4-44078b895719" />
+
+<img width="1363" height="742" alt="image" src="https://github.com/user-attachments/assets/d0c35f9d-abe9-41fe-a109-e4a97baad767" />
+
+<img width="1366" height="740" alt="image" src="https://github.com/user-attachments/assets/18416bd0-44b3-4f07-80c6-fb7af8a80050" />
+
 
 ## 💡 Business Recommendations
 ## 👤 Author
