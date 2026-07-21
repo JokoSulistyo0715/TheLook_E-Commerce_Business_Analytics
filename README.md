@@ -268,27 +268,26 @@ Dashboard Sales Analysis dirancang untuk mengevaluasi performa penjualan TheLook
 | Average Order Value (AOV)       | 84.50        |
 | Total Profit                    | $ 300.295,94 |
 
-Bagian visualisasi Revenue Year & Month, dapat dilihat pada gmabr dibawah ini menunjukkan pada tahun 2019 bulan Januari merupakan Revenue terendah yaitu $2.612,44, sedangkan pada tahun 2022 bulan Mei merupakan Revenue tertinggi yaitu $1.083.206,01
+Visualisasi Revenue by Year & Month menunjukkan tren revenue perusahaan selama periode analisis. Berdasarkan grafik, Januari 2019 mencatat revenue terendah sebesar $2.612,44, sedangkan Mei 2022 menjadi periode dengan revenue tertinggi, yaitu $1.083.206,01. Peningkatan revenue yang signifikan dari awal hingga akhir periode analisis mengindikasikan adanya pertumbuhan performa penjualan perusahaan, meskipun masih terdapat fluktuasi pada beberapa periode.
 
 <img width="1368" height="768" alt="Revenue by Year   Month, Sales Analysis The Look" src="https://github.com/user-attachments/assets/e53fc4d6-427b-4bb6-92b2-13a27a0999b5" />
 
-
-Selanjutnya, pada Visualisasi Top 10 Revenue by Brand terdapat Brand Calvin Klein dengan revenue terbesar, yaitu $251.280,65, dilanjutkan di urutan revenue terbesar kedua yaitu Brand Diesel dengan $197.385,50 , dan di urutan revenue terendah yaitu Brand Joe's Jeans dengan $102.971,70. 
+Berdasarkan visualisasi Top 10 Revenue by Brand, Calvin Klein menjadi brand dengan revenue tertinggi sebesar $251.280,65, disusul oleh Diesel dengan $197.385,50. Posisi kesepuluh ditempati oleh Joe's Jeans dengan revenue sebesar $102.971,70. Temuan ini menunjukkan bahwa kontribusi revenue tidak terdistribusi secara merata di antara brand-brand unggulan. Oleh karena itu, perusahaan dapat mempertahankan performa brand dengan revenue tinggi sekaligus mengevaluasi strategi pemasaran dan penjualan untuk brand yang kontribusinya relatif lebih rendah.
 
 <img width="1325" height="742" alt="image" src="https://github.com/user-attachments/assets/83b5c324-49c9-48f7-a3d9-c5f753375510" />
 
-Pada Visualisasi Top 10 Revenue by Product, Product The North Face Apex Bionic Soft Shell Jacket - Men's merupakan Revenue tertinggi hingga $18.963,00 lalu diurutan kedua terdapat product Jordan Durasheen Short Mens dengan Revenue $13.545,00. Product Adidas Women's adiFit Slim Pant merupakan product urutan ke-10 dengan Revenue $7.644,00
+Visualisasi Top 10 Revenue by Product menunjukkan bahwa The North Face Apex Bionic Soft Shell Jacket - Men's menjadi produk dengan kontribusi revenue tertinggi sebesar $18.963,00. Posisi kedua ditempati oleh Jordan Durasheen Short Men's dengan revenue sebesar $13.545,00, sedangkan posisi kesepuluh ditempati oleh Adidas Women's adiFit Slim Pant dengan revenue sebesar $7.644,00. Temuan ini menunjukkan bahwa beberapa produk memberikan kontribusi revenue yang jauh lebih besar dibandingkan dengan produk lainnya, sehingga produk-produk dengan performa terbaik dapat diprioritaskan dalam strategi promosi, pengelolaan stok, dan perencanaan persediaan.
 
 <img width="1503" height="748" alt="image" src="https://github.com/user-attachments/assets/cbc16ba8-e90d-49c5-97f8-5eea59db9632" />
 
-Berikutnya, Visualisasi Top 10 Revenue by Category, pada Category Outerwear & Coa merupakan Revenue tertinggi yaitu $1.300.914,26, lalu dilanjutkan urutan ke-2 terdapat category jeans dengan $1.247.804,99, dan urutan ke-10 terdapat product Dresses dengan Revenue $461.990,43.
+Visualisasi Top 10 Revenue by Category menunjukkan bahwa kategori Outerwear & Coats memberikan kontribusi revenue tertinggi sebesar $1.300.914,26, diikuti oleh kategori Jeans pada posisi kedua dengan revenue sebesar $1.247.804,99. Sementara itu, kategori Dresses menempati posisi kesepuluh dengan revenue sebesar $461.990,43. Temuan ini menunjukkan bahwa kategori pakaian luar dan jeans menjadi kontributor utama terhadap pendapatan perusahaan, sehingga perusahaan dapat memprioritaskan strategi promosi, pengelolaan persediaan, dan pengembangan produk pada kategori dengan performa terbaik, sekaligus mengevaluasi strategi penjualan untuk kategori dengan kontribusi revenue yang relatif lebih rendah.
 
 <img width="1556" height="737" alt="image" src="https://github.com/user-attachments/assets/a4992acc-4c79-4fa2-b0da-5a79b3136b5d" />
 
 ### 👥 Customer Analysis Dashboard
 Dashboard Customer Analysis digunakan untuk memahami karakteristik pelanggan berdasarkan gender, kelompok usia, lokasi geografis, dan traffic source. Selain itu, dashboard ini menampilkan informasi mengenai rata-rata pengeluaran pelanggan (Average Customer Spending) serta jumlah Repeat Customer untuk membantu mengevaluasi perilaku pelanggan dan efektivitas strategi pemasaran. Analisis ini mendukung perusahaan dalam meningkatkan retensi pelanggan serta mengoptimalkan aktivitas akuisisi pelanggan baru.
 
-Visualisasi Customer by Gender yang menggunakan Donut Chart, memvisualisasikan customer berdasarkan jenis kelamin (Gender). Gender M merupakan jenis kelamin pria 50,04% dengan total 39.975 orang, dan Gender F merupakan jenis kelamin wanita 49,96% dengan total 39.918 orang.
+Visualisasi Customer by Gender menunjukkan distribusi pelanggan berdasarkan jenis kelamin menggunakan Donut Chart. Pelanggan pria (Male) mendominasi dengan proporsi 50,04% atau 39.975 pelanggan, sedangkan pelanggan wanita (Female) berjumlah 39.918 pelanggan atau 49,96%. Komposisi yang hampir seimbang ini menunjukkan bahwa TheLook E-Commerce memiliki basis pelanggan yang merata antara pria dan wanita.
 
 <img width="1542" height="742" alt="image" src="https://github.com/user-attachments/assets/637d1955-3e5f-4ed4-bf6b-05f7a09db3cb" />
 
@@ -296,7 +295,7 @@ Visualisasi Customer by Age Group merupakan pengelompokan customer berdasarkan r
 
 <img width="1528" height="753" alt="image" src="https://github.com/user-attachments/assets/7e4c1531-f0ab-4f1a-a0ba-63ad3bd5e43a" />
 
-Selanjutnya, visualisasi Customer by Traffic Source merupakan aktivitas pencarian produk yang dilakukan oleh customer, seperti melalui media sosial Facebook atau melalui search engine dan lain-lain. Aktivitas Search merupakan urutan pertama dengan total aktivitas 41.357, lalu dilanjutkan dengan Organic sebanyak 8.753, dan aktivitas terendah yaitu aktivitas Display yang hanya 2.344.
+Visualisasi Customer by Age Group menunjukkan distribusi pelanggan berdasarkan enam kelompok usia, yaitu <20 tahun, 20–29 tahun, 30–39 tahun, 40–49 tahun, 50–59 tahun, dan 60+ tahun. Kelompok usia 60 tahun ke atas menjadi segmen pelanggan terbesar dengan 2.667 pelanggan, disusul oleh kelompok usia 20–29 tahun sebanyak 2.467 pelanggan. Sebaliknya, kelompok usia di bawah 20 tahun merupakan segmen dengan jumlah pelanggan paling sedikit, yaitu 1.950 pelanggan. Distribusi ini mengindikasikan bahwa TheLook E-Commerce memiliki basis pelanggan yang cukup beragam, dengan dominasi pelanggan pada kelompok usia yang lebih dewasa.
 
 <img width="1362" height="725" alt="image" src="https://github.com/user-attachments/assets/f581e83b-f2c6-4ec7-96d3-9be723e2b88f" />
 
@@ -308,11 +307,14 @@ Berdasarkan visualisasi Top 10 Customer Spending, Michael Smith merupakan pelang
 
 <img width="1482" height="742" alt="image" src="https://github.com/user-attachments/assets/4ad1a82e-e686-4cad-9fd2-83eedaea3bcf" />
 
-
 ### 📦 Product Analysis Dashboard
 Dashboard Product Analysis bertujuan untuk mengevaluasi performa produk berdasarkan produk, brand, kategori, dan departemen yang memberikan kontribusi terbesar terhadap revenue perusahaan. Selain itu, dashboard ini juga menganalisis Product Return Rate sebagai indikator kualitas produk dan kepuasan pelanggan. Insight yang diperoleh dapat dimanfaatkan untuk mendukung pengelolaan katalog produk, strategi penjualan, serta optimalisasi persediaan.
 
+Visualisasi Top 10 Revenue by Product menampilkan 10 produk dengan kontribusi revenue tertinggi selama periode analisis. Berdasarkan visualisasi, produk The North Face Apex Bionic Soft Shell Jacket - Men's menjadi produk dengan revenue tertinggi sebesar $18.963,00, diikuti oleh Jordan Durasheen Short Mens 404309 dengan revenue $13.545,00, serta The North Face Apex Bionic Mens Soft Shell sebesar $12.642,00. Sementara itu, posisi kesepuluh ditempati oleh adidas Women's adiFIT Slim Pant dengan revenue $7.644,00. Hasil ini menunjukkan bahwa produk kategori outerwear dan sports apparel mendominasi kontribusi revenue sehingga berpotensi menjadi produk unggulan yang perlu diprioritaskan dalam strategi penjualan dan pengelolaan persediaan.
+
 <img width="1312" height="741" alt="image" src="https://github.com/user-attachments/assets/29b5d706-5d2b-4ebe-b5d1-c916fa6653c0" />
+
+Visualisasi Top 10 Revenue by Brand menunjukkan kontribusi revenue dari sepuluh brand dengan performa penjualan tertinggi. Berdasarkan hasil analisis, Calvin Klein menempati posisi pertama dengan total revenue sebesar $251.280,65, disusul oleh Diesel sebesar $197.385,50, dan Carhartt sebesar $178.058,31. Sementara itu, Joe's Jeans berada pada posisi kesepuluh dengan total revenue $102.971,70. Perbedaan nilai revenue antarbrand menunjukkan bahwa kontribusi penjualan belum merata, di mana beberapa brand mendominasi pendapatan perusahaan dibandingkan dengan brand lainnya.
 
 <img width="1302" height="743" alt="image" src="https://github.com/user-attachments/assets/11c1e54d-cfd7-46de-bc4b-6016ecb7ddd6" />
 
