@@ -375,6 +375,37 @@ Visualisasi Order Status Distribution menampilkan distribusi status pesanan berd
 
 <img width="1456" height="737" alt="image" src="https://github.com/user-attachments/assets/37f86803-9ce1-46ed-a520-0ef0352005f1" />
 
-
 ## 💡 Business Recommendations
+### 📈 Sales Analysis
+
+Berdasarkan hasil analisis Sales Dashboard, terdapat beberapa strategi yang dapat diterapkan untuk meningkatkan performa penjualan TheLook E-Commerce.
+- Mempertahankan performa brand, kategori, dan produk dengan revenue tertinggi, seperti Calvin Klein, Outerwear & Coats, serta produk-produk dengan kontribusi revenue terbesar, melalui optimalisasi promosi, pengelolaan stok, dan pengembangan variasi produk.
+- Melakukan evaluasi terhadap brand, kategori, dan produk dengan kontribusi revenue yang relatif lebih rendah untuk mengidentifikasi faktor-faktor yang memengaruhi rendahnya penjualan, seperti strategi pemasaran, harga, dan tingkat permintaan pasar.
+- Memanfaatkan tren revenue bulanan sebagai dasar dalam menyusun strategi promosi musiman (seasonal campaign) serta perencanaan persediaan agar mampu mengantisipasi perubahan permintaan pelanggan.
+- Melakukan monitoring KPI utama, seperti Revenue, Orders, Profit, dan Average Order Value (AOV) secara berkala menggunakan dashboard interaktif untuk mendukung pengambilan keputusan yang lebih cepat dan berbasis data.
+
+### 👥 Customer Analysis
+
+Berdasarkan hasil analisis Customer Dashboard, perusahaan dapat mengoptimalkan strategi pemasaran dan meningkatkan loyalitas pelanggan melalui beberapa langkah berikut.
+- Mengoptimalkan investasi pemasaran pada traffic source yang memberikan kontribusi pelanggan terbesar, khususnya Search, sekaligus mengevaluasi efektivitas channel dengan kontribusi lebih rendah seperti Email dan Display.
+- Mengembangkan strategi pemasaran yang lebih tersegmentasi berdasarkan usia, gender, dan lokasi pelanggan agar kampanye pemasaran menjadi lebih relevan dengan karakteristik target pasar.
+- Membangun program loyalitas bagi pelanggan dengan nilai pengeluaran tertinggi (High Value Customer) guna meningkatkan retensi pelanggan serta mendorong pembelian berulang.
+- Melakukan monitoring terhadap Average Customer Spending dan Repeat Customer secara berkala sebagai indikator keberhasilan strategi customer relationship management (CRM).
+
+### 📦 Product Analysis
+
+Hasil analisis Product Dashboard menunjukkan adanya perbedaan performa antar produk, brand, kategori, maupun department. Oleh karena itu, perusahaan dapat mempertimbangkan beberapa strategi berikut.
+- Memprioritaskan pengelolaan stok pada produk, brand, dan kategori dengan kontribusi revenue terbesar agar mampu memenuhi permintaan pelanggan secara optimal.
+- Mengevaluasi produk dengan return rate tinggi untuk mengidentifikasi penyebab utama pengembalian, seperti kualitas produk, ukuran, deskripsi produk, maupun ekspektasi pelanggan.
+- Menyesuaikan strategi merchandising berdasarkan performa masing-masing department, sehingga alokasi produk dan promosi dapat dilakukan secara lebih efektif.
+- Melakukan evaluasi berkala terhadap performa produk yang mengalami penurunan maupun peningkatan penjualan sebagai dasar dalam pengambilan keputusan terkait pengembangan katalog produk.
+
+### 🚚 Shipping Analysis
+
+Berdasarkan hasil analisis Shipping Dashboard, perusahaan dapat meningkatkan efisiensi operasional distribusi melalui beberapa strategi berikut.
+- Melakukan monitoring terhadap distribution center yang memiliki rata-rata waktu pengiriman lebih lama agar kualitas layanan tetap konsisten di seluruh wilayah distribusi.
+- Melakukan evaluasi terhadap kategori produk dan brand dengan return rate yang tinggi guna mengidentifikasi faktor-faktor yang memengaruhi tingginya tingkat pengembalian produk.
+- Memantau distribusi status pesanan secara berkala untuk mengurangi jumlah pesanan dengan status Cancelled maupun Returned, sekaligus meningkatkan tingkat penyelesaian transaksi (Completed Orders).
+- Menjadikan indikator Average Shipping Days, Return Rate, dan Order Status Distribution sebagai KPI operasional untuk mendukung peningkatan kualitas layanan logistik dan pengalaman pelanggan.
+
 ## 👤 Author
