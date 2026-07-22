@@ -238,7 +238,7 @@ Filters
 - Category
 
 ### 🚚 Shipping Analysis Dashboard
-<p align="center"> <img src="Dashboard/Shipping Analysis TheLook.png" width="900"> </p>
+<p align="center"> <img src="Dashboard/Shipping Analysis TheLook Dashboard.png" width="900"> </p>
 
 Key Performance Indicators (KPI)
 - Average Shipping Days
