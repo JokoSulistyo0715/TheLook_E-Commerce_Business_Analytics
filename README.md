@@ -198,7 +198,7 @@ Filters
 - Brand
 
 ### 👥 Customer Analysis Dashboard
-<p align="center"> <img src="Dashboard/Customer Analysis TheLook.png" width="900"> </p>
+<p align="center"> <img src="Dashboard/Customer Analysis TheLook Dashboard.png" width="900"> </p>
 
 Key Performance Indicators (KPI)
 - Total Customer
