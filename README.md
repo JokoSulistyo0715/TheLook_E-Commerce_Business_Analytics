@@ -218,7 +218,7 @@ Filters
 - Country
 
 ### 📦 Product Analysis Dashboard
-<p align="center"> <img src="Dashboard/Product Analysis TheLook.png" width="900"> </p>
+<p align="center"> <img src="Dashboard/Product Analysis TheLook Dashboard.png" width="900"> </p>
 
 Key Performance Indicators (KPI)
 - Total Product
