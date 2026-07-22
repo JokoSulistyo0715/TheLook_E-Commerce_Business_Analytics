@@ -295,7 +295,8 @@ Visualisasi Customer by Age Group merupakan pengelompokan customer berdasarkan r
 
 <img width="1670" height="757" alt="image" src="https://github.com/user-attachments/assets/7ccf65cc-9776-4a8e-8982-5ed1acad825e" />
 
-(Revisi)
+Visualisasi Customer by Traffic Source menunjukkan sumber utama pelanggan yang mengunjungi platform TheLook E-Commerce. Berdasarkan visualisasi, Search menjadi sumber trafik terbesar dengan 56.298 pelanggan, diikuti oleh Organic sebanyak 11.849 pelanggan. Selanjutnya, pelanggan yang berasal dari Facebook berjumlah 4.642, Email sebanyak 3.949, dan Display menjadi sumber trafik terendah dengan 3.155 pelanggan. Hasil ini menunjukkan bahwa sebagian besar pelanggan mengakses platform melalui mesin pencari (Search), sedangkan kontribusi dari Email dan Display masih relatif lebih rendah dibandingkan dengan sumber trafik lainnya.
+
 <img width="1496" height="726" alt="image" src="https://github.com/user-attachments/assets/2336cdbe-a6da-4a64-8f92-be790cd93a06" />
 
 
