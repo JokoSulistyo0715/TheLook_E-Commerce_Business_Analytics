@@ -409,3 +409,14 @@ Berdasarkan hasil analisis Shipping Dashboard, perusahaan dapat meningkatkan efi
 - Menjadikan indikator Average Shipping Days, Return Rate, dan Order Status Distribution sebagai KPI operasional untuk mendukung peningkatan kualitas layanan logistik dan pengalaman pelanggan.
 
 ## 👤 Author
+Project ini dibuat sebagai bagian dari Data Analyst Portfolio untuk menunjukkan kemampuan dalam membangun solusi analitik secara end-to-end, mulai dari perancangan database hingga penyusunan insight dan rekomendasi bisnis.
+
+Seluruh proses dalam project ini meliputi:
+
+🗄️ Database Design & Relational Database
+🧹 Data Import, Validation & Data Cleaning
+🔗 Entity Relationship Diagram (ERD) & Data Modeling
+📝 SQL Query Development & Exploratory Data Analysis (EDA)
+📊 Dashboard Development menggunakan Power BI
+📈 Business Insight & Business Recommendations
+💼 Data-Driven Decision Making
