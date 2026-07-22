@@ -318,9 +318,17 @@ Visualisasi Top 10 Revenue by Brand menunjukkan kontribusi revenue dari sepuluh 
 
 <img width="1302" height="743" alt="image" src="https://github.com/user-attachments/assets/11c1e54d-cfd7-46de-bc4b-6016ecb7ddd6" />
 
+Visualisasi Top 10 Revenue by Category menunjukkan kategori produk dengan kontribusi revenue tertinggi selama periode analisis. Berdasarkan visualisasi tersebut, kategori Outerwear & Coats menempati peringkat pertama dengan total revenue sebesar $1.300.914,26, diikuti oleh kategori Jeans pada posisi kedua dengan revenue $1.247.804,99. Sementara itu, kategori Dresses berada pada posisi kesepuluh dengan total revenue sebesar $461.990,43.
+
 <img width="1547" height="742" alt="image" src="https://github.com/user-attachments/assets/3940e56e-bc53-4690-8d5b-686ffdbe61b8" />
 
+Visualisasi Revenue by Department menunjukkan total revenue yang dihasilkan oleh masing-masing department produk, yaitu Men dan Women. Berdasarkan hasil analisis, department Men memberikan kontribusi revenue terbesar dengan total $5.734.141,53, sedangkan department Women menghasilkan revenue sebesar $5.024.738,59. Perbedaan tersebut menunjukkan bahwa penjualan produk pada department Men sedikit lebih tinggi dibandingkan department Women selama periode analisis.
+
 <img width="1202" height="757" alt="image" src="https://github.com/user-attachments/assets/73f9e948-be84-4e96-93af-697b653edb83" />
+
+Visualisasi Product Return Rate menunjukkan 10 produk dengan tingkat pengembalian (return rate) tertinggi selama periode analisis. Berdasarkan hasil analisis, terdapat empat produk yang memiliki return rate tertinggi sebesar 0,50 (50%), yaitu Allegra K 5 Pcs Thistle Bra Extender, Harmonie Women's Solid Legwarmer, IZOD Men's 3-Pack Performx Quarter Socks, dan U.S. Polo Assn. Men's Wide Striped Polo. Selanjutnya, tiga produk lainnya memiliki return rate sebesar 0,45 (45%), sedangkan produk dengan return rate terendah dalam daftar Top 10 adalah Long Sleeve Striped V-Neck Hoodie dengan nilai 0,41 (41%).
+
+Hasil tersebut menunjukkan bahwa beberapa produk memiliki tingkat pengembalian yang relatif tinggi, sehingga perlu menjadi perhatian dalam proses evaluasi kualitas produk maupun kesesuaian produk dengan ekspektasi pelanggan.
 
 <img width="1372" height="747" alt="image" src="https://github.com/user-attachments/assets/3345933e-80d4-4d64-9ffd-2a1a7fb8729b" />
 
