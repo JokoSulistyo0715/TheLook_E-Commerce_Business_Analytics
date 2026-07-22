@@ -345,7 +345,8 @@ Visualisasi Shipping Time by Distribution Center menampilkan rata-rata waktu pen
 
 <img width="1368" height="742" alt="image" src="https://github.com/user-attachments/assets/3aa813c8-6f93-4fba-bff4-44078b895719" />
 
-Revisi
+Visualisasi Top 10 Return Rate by Category menunjukkan kategori produk dengan tingkat pengembalian (return rate) tertinggi. Berdasarkan visualisasi, kategori Clothing Sets memiliki return rate tertinggi sebesar 0,119, diikuti oleh kategori Plus sebesar 0,109, dan Shorts sebesar 0,108. Sementara itu, kategori Socks menempati urutan ke-10 dengan return rate sebesar 0,101. Hasil ini menunjukkan bahwa beberapa kategori memiliki kecenderungan pengembalian produk yang lebih tinggi dibandingkan dengan kategori lainnya.
+
 <img width="1507" height="742" alt="image" src="https://github.com/user-attachments/assets/b19aa254-35ef-4b63-ac19-36b39c479b3f" />
 
 Visualisasi Return Rate by Brand menampilkan tingkat pengembalian produk berdasarkan merek. Berdasarkan visualisasi, Islandia merupakan brand dengan return rate tertinggi, yaitu 75%. Selanjutnya, brand Candies, DeepPocket, Fashion Forms, dan Fashion Apparel masing-masing memiliki return rate sebesar 67%. Adapun brand ITC, Lily White, dan Project Ratchet memiliki return rate sebesar 60%, sehingga termasuk dalam kelompok brand dengan tingkat pengembalian yang relatif tinggi.
