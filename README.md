@@ -318,7 +318,7 @@ Visualisasi Top 10 Revenue by Brand menunjukkan kontribusi revenue dari sepuluh 
 
 <img width="1302" height="743" alt="image" src="https://github.com/user-attachments/assets/11c1e54d-cfd7-46de-bc4b-6016ecb7ddd6" />
 
-<img width="1371" height="746" alt="image" src="https://github.com/user-attachments/assets/68d1e721-6fec-405a-820c-06f942ec77ef" />
+<img width="1547" height="742" alt="image" src="https://github.com/user-attachments/assets/3940e56e-bc53-4690-8d5b-686ffdbe61b8" />
 
 <img width="1202" height="757" alt="image" src="https://github.com/user-attachments/assets/73f9e948-be84-4e96-93af-697b653edb83" />
 
