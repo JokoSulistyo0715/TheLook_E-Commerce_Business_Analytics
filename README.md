@@ -287,6 +287,12 @@ Visualisasi Top 10 Revenue by Category menunjukkan bahwa kategori Outerwear & Co
 ### 👥 Customer Analysis Dashboard
 Dashboard Customer Analysis digunakan untuk memahami karakteristik pelanggan berdasarkan gender, kelompok usia, lokasi geografis, dan traffic source. Selain itu, dashboard ini menampilkan informasi mengenai rata-rata pengeluaran pelanggan (Average Customer Spending) serta jumlah Repeat Customer untuk membantu mengevaluasi perilaku pelanggan dan efektivitas strategi pemasaran. Analisis ini mendukung perusahaan dalam meningkatkan retensi pelanggan serta mengoptimalkan aktivitas akuisisi pelanggan baru.
 
+| Key Performance Indicator (KPI) | Value        |
+|---------------------------------|--------------| 
+| Total Customer                  | 5.277        |
+| Average Customer Spending       | 109.89       |
+| Repeat Customer                 | 1111         |
+
 Visualisasi Customer by Gender menunjukkan distribusi pelanggan berdasarkan jenis kelamin menggunakan Donut Chart. Pelanggan pria (Male) mendominasi dengan proporsi 50,04% atau 39.975 pelanggan, sedangkan pelanggan wanita (Female) berjumlah 39.918 pelanggan atau 49,96%. Komposisi yang hampir seimbang ini menunjukkan bahwa TheLook E-Commerce memiliki basis pelanggan yang merata antara pria dan wanita.
 
 <img width="1542" height="742" alt="image" src="https://github.com/user-attachments/assets/637d1955-3e5f-4ed4-bf6b-05f7a09db3cb" />
@@ -310,6 +316,12 @@ Berdasarkan visualisasi Top 10 Customer Spending, Michael Smith merupakan pelang
 
 ### 📦 Product Analysis Dashboard
 Dashboard Product Analysis bertujuan untuk mengevaluasi performa produk berdasarkan produk, brand, kategori, dan departemen yang memberikan kontribusi terbesar terhadap revenue perusahaan. Selain itu, dashboard ini juga menganalisis Product Return Rate sebagai indikator kualitas produk dan kepuasan pelanggan. Insight yang diperoleh dapat dimanfaatkan untuk mendukung pengelolaan katalog produk, strategi penjualan, serta optimalisasi persediaan.
+
+| Key Performance Indicator (KPI) | Value        |
+|---------------------------------|--------------| 
+| Total Product                   | 29.054       |
+| Total Brand                     | 2660         |
+| Total Category                  | 26           |
 
 Visualisasi Top 10 Revenue by Product menampilkan 10 produk dengan kontribusi revenue tertinggi selama periode analisis. Berdasarkan visualisasi, produk The North Face Apex Bionic Soft Shell Jacket - Men's menjadi produk dengan revenue tertinggi sebesar $18.963,00, diikuti oleh Jordan Durasheen Short Mens 404309 dengan revenue $13.545,00, serta The North Face Apex Bionic Mens Soft Shell sebesar $12.642,00. Sementara itu, posisi kesepuluh ditempati oleh adidas Women's adiFIT Slim Pant dengan revenue $7.644,00. Hasil ini menunjukkan bahwa produk kategori outerwear dan sports apparel mendominasi kontribusi revenue sehingga berpotensi menjadi produk unggulan yang perlu diprioritaskan dalam strategi penjualan dan pengelolaan persediaan.
 
@@ -336,6 +348,12 @@ Hasil tersebut menunjukkan bahwa beberapa produk memiliki tingkat pengembalian y
 
 ### 🚚 Shipping Analysis Dashboard
 Dashboard Shipping Analysis digunakan untuk mengevaluasi performa proses pengiriman berdasarkan Average Shipping Days, Return Rate, dan Returned Orders. Selain itu, dashboard ini membantu menganalisis kinerja setiap Distribution Center, tingkat pengembalian produk berdasarkan brand dan kategori, serta distribusi status pesanan selama periode analisis. Hasil analisis dapat menjadi dasar dalam meningkatkan efisiensi operasional, mengurangi tingkat pengembalian produk, dan meningkatkan kualitas layanan kepada pelanggan.
+
+| Key Performance Indicator (KPI) | Value        |
+|---------------------------------|--------------| 
+| Average Shipping Day            | 2.50         |
+| Return Rate                     | 0.10 (10%)   |
+| Return Order                    | 12.570       |
 
 Visualisasi Shipping Days Trend menampilkan rata-rata waktu pengiriman (Average Shipping Days) setiap bulan selama periode Januari 2019 hingga Juni 2022. Berdasarkan grafik, rata-rata waktu pengiriman cenderung stabil pada kisaran 2,4–2,6 hari setelah pertengahan tahun 2019. Waktu pengiriman tertinggi terjadi pada Februari 2019 dengan rata-rata 2,91 hari, sedangkan waktu pengiriman terendah tercatat pada Januari 2019, yaitu 2,00 hari. Setelah periode awal tersebut, fluktuasi waktu pengiriman relatif kecil sehingga menunjukkan proses distribusi yang cukup konsisten.
 
